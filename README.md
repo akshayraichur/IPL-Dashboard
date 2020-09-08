@@ -13,3 +13,5 @@
 3. Optimized Loading Time.
 
 #### Link to the Github repo : https://github.com/akshayraichur/IPL-Dashboard
+
+#### Link to the app : https://ipl-dashboard.akshayraichur.com
