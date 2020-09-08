@@ -15,3 +15,7 @@
 #### Link to the Github repo : https://github.com/akshayraichur/IPL-Dashboard
 
 #### Link to the app : https://ipl-dashboard.akshayraichur.com
+
+#### Lighthouse Score :
+
+<img src="https://static.akshayraichur.com/images/ipl-dashboard.jpg" />
