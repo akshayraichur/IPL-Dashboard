@@ -11,7 +11,7 @@
 #### Bonus Points :
 
 ```
-1. PWA -> React Gives us the option to convert a normal website into pwa, it had added serviceworkers and we have to register it.
+1. PWA -> React Gives us the option to convert a normal website into pwa, it has added serviceworkers by default (when we use CRA) and we have to register it.
 2. Mobile Responsive -> Material UI is focused on Mobile First design, and it gave me alot of options to make the site responsive.
 3. Optimized Loading Time. -> By Using React Hooks, we can achieve better performance out of the box.
 ```
