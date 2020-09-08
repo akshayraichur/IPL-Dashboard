@@ -1,0 +1,19 @@
+.numericHeading {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 3rem;
+}
+
+.seasons {
+	font-family: 'Inter', sans-serif;
+	font-size: 4rem;
+	font-weight: 900;
+	background: linear-gradient(rgb(83, 107, 74), rgb(10, 212, 20));
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.year {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-weight: 700;
+	font-size: 2rem;
+}

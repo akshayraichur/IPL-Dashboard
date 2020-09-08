@@ -1,0 +1,29 @@
+.teamHeading {
+	font-family: 'Inter', sans-serif;
+	font-size: 4rem;
+	font-weight: 900;
+	background: linear-gradient(rgb(225, 228, 43), rgb(212, 175, 10));
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.img {
+	width: 50%;
+	height: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+	border: 3px solid #ff6d38;
+	box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.705);
+	transition: all 0.3s ease;
+	transform: translateY(-20px);
+}
+
+.img:hover {
+	transform: scale(1.2);
+}
+
+.cardDiv {
+	overflow: visible;
+}
